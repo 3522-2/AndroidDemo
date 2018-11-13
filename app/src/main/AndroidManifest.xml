@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.yuan.androiddemo">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".login">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".AddOutaccount"
+            android:label="@string/title_activity_add_outaccount" />
+        <activity
+            android:name=".AddInaccount"
+            android:label="@string/title_activity_add_inaccount" />
+        <activity
+            android:name=".Outaccountinfo"
+            android:label="@string/title_activity_outaccountinfo" />
+        <activity
+            android:name=".InfoManage"
+            android:label="@string/title_activity_info_manage" />
+        <activity
+            android:name=".Showinfo"
+            android:label="@string/title_activity_showinfo" />
+        <activity
+            android:name=".FlagManage"
+            android:label="@string/title_activity_flag_manage" />
+        <activity
+            android:name=".TotalChart"
+            android:label="@string/title_activity_total_chart" />
+        <activity
+            android:name=".Inaccountinfo"
+            android:label="@string/title_activity_inaccountinfo" />
+        <activity
+            android:name=".Sysset"
+            android:label="@string/title_activity_sysset" />
+        <activity
+            android:name=".Accountflag"
+            android:label="@string/title_activity_accountflag" />
+        <activity
+            android:name=".Help"
+            android:label="@string/title_activity_help" />
+        <activity android:name=".MainActivity"
+            />
+
+
+    </application>
+
+</manifest>

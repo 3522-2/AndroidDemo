@@ -1,0 +1,30 @@
+<resources>
+
+    <string name="title_activity_add_outaccount">AddOutaccount</string>
+    <string name="main">家庭理财通</string>
+    <string name="app_name">家庭理财通</string>
+    <string name="login">系统登录</string>
+    <string name="addoutaccount">新增支出</string>
+    <string name="addinaccount">新增收入</string>
+    <string name="outaccountinfo">我的支出</string>
+    <string name="inaccountinfo">我的收入</string>
+    <string name="showinfo">数据管理</string>
+    <string name="sysset">系统设置</string>
+    <string name="accountflag">收支便签</string>
+    <string name="infomanage">收支管理</string>
+    <string name="flagmanage">便签管理</string>
+    <string name="help">帮助</string>
+    <string name="chart">统计图表</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_inaccount">AddInaccount</string>
+    <string name="title_activity_outaccountinfo">Outaccountinfo</string>
+    <string name="title_activity_info_manage">InfoManage</string>
+    <string name="title_activity_showinfo">Showinfo</string>
+    <string name="title_activity_flag_manage">FlagManage</string>
+    <string name="title_activity_total_chart">TotalChart</string>
+    <string name="title_activity_inaccountinfo">Inaccountinfo</string>
+    <string name="title_activity_sysset">Sysset</string>
+    <string name="title_activity_accountflag">Accountflag</string>
+    <string name="title_activity_help">Help</string>
+    <string name="title_activity_login">login</string>
+</resources>
